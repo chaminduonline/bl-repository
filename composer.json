@@ -1,5 +1,6 @@
 {
     "name": "blife/repository",
+    "description": "Package for testing packagist",
     "type": "library",
     "authors": [
         {

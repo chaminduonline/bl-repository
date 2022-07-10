@@ -7,6 +7,7 @@
             "email": "ourmind.lk@gmail.com"
         }
     ],
+    "license": "MIT",
     "minimum-stability": "dev",
     "require": {},
     "require-dev": {

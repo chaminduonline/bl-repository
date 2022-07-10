@@ -1,0 +1,21 @@
+{
+    "name": "blife/bl-repository",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ourmind Solution",
+            "email": "ourmind.lk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "php": "^7.1.3",
+        "laravel/framework": "5.8.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blife\\Repository\\": "src/"
+        }
+    }
+}

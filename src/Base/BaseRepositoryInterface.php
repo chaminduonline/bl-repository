@@ -6,7 +6,7 @@
  * Time: 10:11 AM
  */
 
-namespace Blife\Rrepository;
+namespace Blife\Repository;
 
 use Illuminate\Database\Eloquent\Model;
 

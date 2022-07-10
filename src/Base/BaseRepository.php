@@ -5,7 +5,7 @@
  * Date: 1/25/19
  * Time: 1:53 PM 
  */
-namespace Blife\Rrepository;
+namespace Blife\Repository;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
